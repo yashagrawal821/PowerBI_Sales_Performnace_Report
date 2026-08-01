@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Segment
+1001,Acme Corporation,Enterprise
+1002,Brightstar Ltd,Enterprise
+1003,Greenfield Schools,Education
+1004,HealthFirst Clinic,Healthcare
+1005,Metro Retail,Retail
+1006,Summit Consulting,Professional Services
+1007,Urban Bank,Financial Services
+1008,BlueSky Logistics,Logistics
+1009,Prime Manufacturing,Manufacturing
+1010,City Government,Government
+1011,Oak & Co,Retail
+1012,Nova Labs,Technology
+1013,Horizon Media,Media
+1014,Pioneer Energy,Energy
+1015,Cedar Healthcare,Healthcare

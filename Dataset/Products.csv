@@ -1,0 +1,13 @@
+ProductID,ProductName,CategoryID,UnitPrice
+101,Laptop Pro 14,1,1299.0
+102,Business Laptop 15,1,999.0
+103,Wireless Keyboard,1,79.0
+104,Wireless Mouse,1,39.0
+105,27-inch Monitor,1,329.0
+106,Laser Printer,3,249.0
+107,Printer Paper Pack,3,29.0
+108,Executive Desk,2,599.0
+109,Office Chair,2,349.0
+110,Filing Cabinet,2,199.0
+111,Conference Table,2,899.0
+112,Desk Lamp,3,49.0
