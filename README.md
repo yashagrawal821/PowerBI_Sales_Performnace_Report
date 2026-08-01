@@ -170,25 +170,25 @@ Built using a custom visual theme:
 # 📂 Repository Structure
 
 ```
-PowerBI_Sales_Performance_Dashboard
+PowerBI_Sales_Performance_report
 │
 ├── 📂 Assets
 │   ├── Cover Background.png
 │   └── Speedometer.png
 │
 ├── 📂 Dataset
-│   └── Sales Dataset.xlsx
+│   └── Dataset.csv
 │
 ├── 📂 Screenshots
-│   ├── Cover Page.png
-│   ├── Executive Overview.png
-│   ├── Regional Performance.png
-│   ├── Product Performance.png
-│   ├── Customer Insights.png
-│   └── Profitability Analysis.png
+│   ├── Cover.png
+│   ├── Executive.png
+│   ├── Regional.png
+│   ├── Product.png
+│   ├── Customer.png
+│   └── Profitability.png
 │
-├── PowerBI_Sales_Performance_Dashboard.pbix
-├── Sales_Performance_Dashboard.pdf
+├── PowerBI_Sales_Performance_Report.pbix
+├── Sales_Performance_Report.pdf
 └── README.md
 ```
 
